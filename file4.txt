@@ -1,0 +1,4 @@
+This file
+has Unix
+style line
+endings.
